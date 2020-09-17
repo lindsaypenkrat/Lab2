@@ -39,11 +39,17 @@ h2 {
   color: #FFFFFF;
 }
 
+.user-control #attraction-category:hover{
+  border: 1px solid #4d8d9c;
+}
+
 .source-desc {
   font-size: 11px;
   color: #ABB0B3;
   margin-top: 20px;
 }
+
+
 
 /****************/
 /*   BAR-CHART  */
